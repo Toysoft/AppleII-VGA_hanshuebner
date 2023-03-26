@@ -1435,7 +1435,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ed52de6-fbfb-4d99-b4ad-9a8d51a7bcc3)
     )
-    (fp_text value "RUN" (at 0 4.15) (layer "F.SilkS")
+    (fp_text value "Pico Reset" (at 0 4.15) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 896e801a-0625-4e6b-bed2-b7a99eccee15)
     )

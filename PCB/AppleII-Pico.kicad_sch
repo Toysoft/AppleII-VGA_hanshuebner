@@ -5656,7 +5656,7 @@
     (in_bom yes) (on_board yes)
     (uuid c1078c71-8ecb-4416-b362-632bf351b877)
     (property "Reference" "SW1" (id 0) (at 185.42 109.22 0))
-    (property "Value" "RUN" (id 1) (at 185.42 111.76 0))
+    (property "Value" "Pico Reset" (id 1) (at 185.42 111.76 0))
     (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm" (id 2) (at 185.42 115.824 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6013,7 +6013,7 @@
       (reference "R14") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/c1078c71-8ecb-4416-b362-632bf351b877"
-      (reference "SW1") (unit 1) (value "RUN") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+      (reference "SW1") (unit 1) (value "Pico Reset") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
     )
     (path "/c189b8bd-871a-49df-bd93-46ab30fbe2a1"
       (reference "U1") (unit 1) (value "74LCX16245") (footprint "Package_SO:TSSOP-48_8x12.5mm_P0.5mm")
