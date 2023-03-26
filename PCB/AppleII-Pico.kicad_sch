@@ -4735,7 +4735,7 @@
     (uuid 00000000-0000-0000-0000-000063a68952)
     (property "Reference" "U6" (id 0) (at 110.49 17.3482 0))
     (property "Value" "Pi PICO" (id 1) (at 110.49 19.6596 0))
-    (property "Footprint" "Package_DIP:DIP-40_W16.51mm_SMDSocket_LongPads" (id 2) (at 109.22 45.72 0)
+    (property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" (id 2) (at 109.22 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 109.22 45.72 0)
@@ -5763,7 +5763,7 @@
       (reference "U5") (unit 1) (value "PALCE16V8H-5JC/5") (footprint "Package_LCC:PLCC-20")
     )
     (path "/00000000-0000-0000-0000-000063a68952"
-      (reference "U6") (unit 1) (value "Pi PICO") (footprint "Package_DIP:DIP-40_W16.51mm_SMDSocket_LongPads")
+      (reference "U6") (unit 1) (value "Pi PICO") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
     )
     (path "/00000000-0000-0000-0000-00006698c94f"
       (reference "U7") (unit 1) (value "AZ1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
