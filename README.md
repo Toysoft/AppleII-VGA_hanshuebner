@@ -13,9 +13,6 @@ produce.  It is now a 2 layer instead of a 4 layer PCB, uses cheaper
 bus transceivers and 0603 passive components that are easier to work
 with when building the board by hand.
 
-PLEASE DO NOT PRODUCE PCB's FROM THIS DESIGN YET UNLESS YOU'RE
-PREPARED TO DEBUG.
-
 Please use
 [GitHub Issues](https://github.com/hanshuebner/AppleII-VGA/issues) to
 provide feedback.  THANK YOU!
